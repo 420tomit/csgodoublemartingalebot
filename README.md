@@ -1,5 +1,7 @@
 # csgodoublemartingalebot
 
+DONATE ME ITEMS https://steamcommunity.com/tradeoffer/new/?partner=127469823&token=gTZL-tdY
+
 
 This script just uses the martingale method to bet on csgodouble. You can set your starting bet, mode (martingale or anti martingale) and the color you will bet on.
 
@@ -13,3 +15,4 @@ How to use:
 5. Press enter to begin
 
 
+if you enjoy this bot, feel free to donate to me. https://steamcommunity.com/tradeoffer/new/?partner=127469823&token=gTZL-tdY
